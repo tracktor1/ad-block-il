@@ -1,1 +1,4 @@
 adclick.g.doubleclick.net
+googleads.g.doubleclick.net
+promotions.themarker.com
+ads.nexage.com
