@@ -1,4 +1,4 @@
-*.*.doubleclick.net
+doubleclick.net
 adclick.g.doubleclick.net
 googleads.g.doubleclick.net
 promotions.themarker.com
