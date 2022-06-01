@@ -2,38 +2,59 @@
 194.67.7.1
 194.54.14.187
 194.54.14.186
-#----------------
-95.173.130.42	#duma.gov.ru
-95.173.130.41	#duma.gov.ru
-94.127.68.121	#president-sovet.ru
-46.4.122.247	#sovetnational.ru
-213.59.254.7	#www.gosuslugi.ru
-213.59.254.7	#www.gosuslugi.ru
-95.167.245.92	#zakupki.gov.ru
-185.194.34.101	#gossluzhba.gov.ru
-95.173.132.28	#defence.council.gov.ru
-95.173.132.31	#defence.council.gov.ru
-95.173.132.73	#defence.council.gov.ru
-95.173.132.28	#budget.council.gov.ru
-95.173.132.31	#budget.council.gov.ru
-95.173.132.73	#budget.council.gov.ru
-95.173.136.72	#www.kremlin.ru
-95.173.136.71	#www.kremlin.ru
-95.173.136.70	#www.kremlin.ru
-95.173.136.162	#government.ru
-95.173.136.163	#government.ru
-95.173.136.168	#government.ru
-95.173.135.142	#www.scrf.gov.ru
-95.173.151.218	#www.ksrf.ru
-95.173.156.120	#www.vsrf.ru
-95.173.136.168	#premier.gov.ru
-95.173.136.162	#premier.gov.ru
-95.173.136.163	#premier.gov.ru
-45.134.61.32	#www.mchs.gov.ru
-95.173.157.181	#www.mchs.gov.ru
-95.173.157.26	#minjust.gov.ru
-213.24.76.23	#www.fsb.ru
-194.226.91.13	#rosguard.gov.ru
-89.208.226.45	#customs.gov.ru
-185.168.63.11	#udprf.ru
-194.226.91.6	#favt.gov.ru
+duma.gov.ru
+95.173.130.42
+95.173.130.41
+#president-sovet.ru
+94.127.68.121
+#sovetnational.ru
+46.4.122.247
+#www.gosuslugi.ru
+213.59.254.7
+213.59.254.7
+#zakupki.gov.ru
+95.167.245.92
+#gossluzhba.gov.ru
+185.194.34.101
+#defence.council.gov.ru
+95.173.132.28
+95.173.132.31
+95.173.132.73
+#budget.council.gov.ru
+95.173.132.28
+95.173.132.31
+95.173.132.73
+#www.kremlin.ru
+95.173.136.72
+95.173.136.71
+95.173.136.70
+#government.ru
+95.173.136.162
+95.173.136.163
+95.173.136.168
+#www.scrf.gov.ru
+95.173.135.142
+#www.ksrf.ru
+95.173.151.218
+#www.vsrf.ru
+95.173.156.120
+#premier.gov.ru
+95.173.136.168
+95.173.136.162
+95.173.136.163
+#www.mchs.gov.ru
+45.134.61.32
+#www.mchs.gov.ru
+95.173.157.181
+#minjust.gov.ru
+95.173.157.26
+#www.fsb.ru
+213.24.76.23
+#rosguard.gov.ru
+194.226.91.13
+#customs.gov.ru
+89.208.226.45
+#udprf.ru
+185.168.63.11
+#favt.gov.ru
+194.226.91.6
